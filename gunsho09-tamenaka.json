@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamenaka",
  "yomi": "たちばなのためなかあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "橘為仲（?〜1085）",
+  "desc": "橘為仲の家集。歌合や贈答の歌を収める。奥書に治承4年（1180）の自筆本からの書写、建長5年（1253）の校合などの年記がある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1877,6 +1882,6 @@
   "poems": 162,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
